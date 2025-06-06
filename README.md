@@ -74,7 +74,7 @@ Vaults operate through public logic and transparent rituals:
 
 - Sponsor → Capital.
 - Builder → Proof.
-- Society → Recognition
+- Society → Recognition.
 
 The Vault overlays existing systems.  
 It is an engine not a form.  
