@@ -1,6 +1,3 @@
-# vault-residency-protocol
-A permissionless protocol to fund and activate sovereign builder residencies in Startup Societies and emerging Network States.
-
 # 🏛️ Vault Residency Protocol
 
 A permissionless primitive to fund sovereign builder residencies across Startup Societies and emerging Network States.
